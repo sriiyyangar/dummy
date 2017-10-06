@@ -5,7 +5,6 @@
         <can_delegate>true</can_delegate>
         <description/>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_dummy.user</name>
@@ -13,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>sri.raghunathan@snc</sys_created_by>
         <sys_created_on>2017-10-06 15:27:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5c4bdb4b1325434005ab70d66144b08e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_dummy.user</sys_name>

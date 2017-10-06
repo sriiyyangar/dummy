@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Ey" language="en" table="x_snc_dummy_ey">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Ey</label>
+            <language>en</language>
+            <name>x_snc_dummy_ey</name>
+            <plural>Eys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sri.raghunathan@snc</sys_created_by>
+            <sys_created_on>2017-10-06 16:37:55</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>dc5b270713e1cf00963eb9b76144b032</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ey</sys_name>
+            <sys_package display_value="dummy" source="x_snc_dummy">d44b134b1325434005ab70d66144b0c8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="dummy">d44b134b1325434005ab70d66144b0c8</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_dummy_ey__en</sys_update_name>
+            <sys_updated_by>sri.raghunathan@snc</sys_updated_by>
+            <sys_updated_on>2017-10-06 16:37:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
